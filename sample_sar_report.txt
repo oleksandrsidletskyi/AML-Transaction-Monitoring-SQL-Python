@@ -1,0 +1,12 @@
+Suspicious Activity Report (Sample)
+
+Client: Ivan Petrov
+Reason: Politically Exposed Person with high-value transactions in high-risk countries (Russia, Belarus)
+
+Client: Anna Kowalska
+Reason: Sanctioned individual involved in multiple international transfers
+
+Client: John Smith
+Reason: Large transaction to high-risk country (Iran)
+
+Date: 2025-06-06

@@ -1,0 +1,5 @@
+transaction_id,client_id,amount,country,timestamp,full_name,is_pep,is_sanctioned,risk_level
+1,1,50000,Russia,2025-06-01,Ivan Petrov,True,False,High
+5,1,30000,Belarus,2025-06-05,Ivan Petrov,True,False,High
+2,2,15000,Poland,2025-06-02,Anna Kowalska,False,True,Low
+3,3,75000,Iran,2025-06-03,John Smith,False,False,High

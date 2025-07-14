@@ -1,0 +1,6 @@
+transaction_id,client_id,amount,country,timestamp
+1,1,50000,Russia,2025-06-01
+2,2,15000,Poland,2025-06-02
+3,3,75000,Iran,2025-06-03
+4,4,500,Germany,2025-06-04
+5,1,30000,Belarus,2025-06-05

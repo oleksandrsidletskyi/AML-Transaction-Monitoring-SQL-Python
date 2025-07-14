@@ -1,0 +1,5 @@
+client_id,full_name,is_pep,is_sanctioned
+1,Ivan Petrov,True,False
+2,Anna Kowalska,False,True
+3,John Smith,False,False
+4,Maria Ivanova,False,False
